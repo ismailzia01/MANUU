@@ -15,6 +15,7 @@ class Node
         next = NULL;
     }
 };
+//class for doubly linked list
 class Dlink
 {
     public:
