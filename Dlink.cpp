@@ -7,7 +7,7 @@ class Node
     int data;
     Node* prev;
     Node* next;
-
+    //Constructor
     Node(int val)
     {
         data = val;
