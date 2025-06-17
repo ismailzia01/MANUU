@@ -29,6 +29,7 @@ class Dlink
         head = NULL;
         tail = NULL;
     }
+    //insertion at head or beginning
     void inserthead(int val)
 {
     if(head == NULL)
