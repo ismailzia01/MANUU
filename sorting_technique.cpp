@@ -11,6 +11,7 @@ class Sort
     void quick_sort(int a[], int low, int high);
     void display(int a[], int len);
 };
+//Selection Sort
 void Sort::selection_sort(int a[], int len)
 {
     for(int i = 0; i < len; i++)
