@@ -29,6 +29,7 @@ void Sort::selection_sort(int a[], int len)
     }
     display(a, len);
 }
+//Bubble Sort
 void Sort::bubble_sort(int a[], int len)
 {
     int temp;
