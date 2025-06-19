@@ -102,6 +102,7 @@ void merge(int arr[], int l, int mid, int r) {
         k++;
     }
 }
+//Merge Sort
 void Sort::merge_sort(int arr[], int l, int r) {
     if (l < r) {
         int mid = l + (r - l) / 2; // Find the middle point
