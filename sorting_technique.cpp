@@ -136,6 +136,7 @@ int partition(int arr[], int low, int high)//function to divide the array
     swap(arr[low], arr[j]);//swap if i > j
     return j;//return integer
 }
+//Quick Sort
 void Sort::quick_sort(int arr[], int low, int high)//where sorting take place
 {
     if(low < high)
