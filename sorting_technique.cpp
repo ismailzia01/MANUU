@@ -47,6 +47,7 @@ void Sort::bubble_sort(int a[], int len)
     }
     display(a, len);
 }
+//Insertion Sort
 void Sort::insertion_sort(int a[], int len)
 {
     for(int i = 1; i < len; i++)
