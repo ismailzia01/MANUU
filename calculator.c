@@ -47,7 +47,7 @@ void add()
     scanf("%lf\n%lf",&num1,&num2);
     printf("Result :%.2lf \n",num1+num2);
 }
-
+//Subtract two numbers
 void sub()
 {
     double num1,num2;
