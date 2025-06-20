@@ -63,7 +63,7 @@ void mul()
     scanf("%lf\n%lf",&num1,&num2);
     printf("Result :%.2lf \n",num1*num2);
 }
-
+//Divides two numbers
 void div()
 {
     double num1,num2;
