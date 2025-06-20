@@ -39,6 +39,7 @@ int main()
 
     }
 }
+//Adds to numbers
 void add()
 {
     double num1,num2;
