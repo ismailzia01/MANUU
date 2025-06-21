@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 /*instead of using again & agian
-                         std:: we can use it one like this*/
+              std:: we can use it one like this*/
 int main()//main function also every program starts from here
 {
     int pos, ele, len, i;//declaring variables that are required in this program
