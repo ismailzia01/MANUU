@@ -1,7 +1,8 @@
 /* Program to insert an element in a specific position */
-#include <iostream>/*Header file that always appears 
-                    in every program also called 
-                    Preprocessor Directive */
+/*Header file that always appears 
+  in every program also called 
+  Preprocessor Directive */
+#include <iostream>
 using namespace std;/*instead of using again & agian
                          std:: we can use it one like this*/
 int main()//main function also every program starts from here
