@@ -3,7 +3,8 @@
   in every program also called 
   Preprocessor Directive */
 #include <iostream>
-using namespace std;/*instead of using again & agian
+using namespace std;
+/*instead of using again & agian
                          std:: we can use it one like this*/
 int main()//main function also every program starts from here
 {
