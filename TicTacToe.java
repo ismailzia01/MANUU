@@ -35,7 +35,7 @@ class TicTacToe {
         }
     }
     public static void changeTurn() {
-        turn = (turn==1)?2:1;
+        turn = (turn==1)?2:1;//change turn
     }
     public static void inputmove(Scanner input) {
         int i,j;
