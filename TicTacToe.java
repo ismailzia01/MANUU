@@ -18,7 +18,7 @@ class TicTacToe {
                 //if board full then its a draw
                 printBoard();
                 System.out.println("It's a Draw !");
-                break;
+                break;//game ends in a draw
             }
             changeTurn();//change the turn from player 'x' to player 'o'
         }
