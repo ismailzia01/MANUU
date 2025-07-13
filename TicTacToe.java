@@ -1,4 +1,4 @@
-//Making a Tic Tac Toe from Scratch
+//Making a Tic Tac Toe game from Scratch
 import java.util.Scanner;
 class TicTacToe {
     static int[][] mat = new int[3][3];//Game Board 3x3
