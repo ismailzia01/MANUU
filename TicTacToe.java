@@ -22,7 +22,7 @@ class TicTacToe {
             }
             changeTurn();//change the turn from player 'x' to player 'o'
         }
-        System.out.print("Result : " + checkWin());//
+        System.out.print("Result : " + checkWin());
 
     }
     public static void printBoard() {
