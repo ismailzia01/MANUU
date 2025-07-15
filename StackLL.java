@@ -13,7 +13,7 @@ public class StackLL {
 
     private Node top = null;
     private Scanner input = new Scanner(System.in);
-
+    //push an item in stack
     public void pushItem() {
         System.out.print("Enter item: ");
         int ele = input.nextInt();
