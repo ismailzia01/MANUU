@@ -7,7 +7,7 @@
 #include<termios.h>    // Terminal I/O interfaces, used for configuring terminal modes (raw/canonical)
 #include<unistd.h>     // POSIX API, provides access to the POSIX operating system API (e.g., read, write, close)
 
-/***defines***///
+/***defines***/////
 #define CTRL_KEY(k) ((k) & 0x1f) // Macro to convert character to its corresponding control key value (e.g., CTRL-Q)
 #define KILO_VERSION "0.0.1"     // String literal representing the version of the Kilo editor
 
