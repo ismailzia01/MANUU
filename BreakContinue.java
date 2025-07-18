@@ -1,5 +1,5 @@
 public class BreakContinue {
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Demonstration of Continue and Break Statements ");
         for (int i = 1; i <= 10; i++) {
 
