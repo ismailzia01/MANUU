@@ -1,4 +1,4 @@
-//#include<ctype.h>      // Provides character handling functions (e.g., isalpha, isdigit)
+////#include<ctype.h>      // Provides character handling functions (e.g., isalpha, isdigit)
 #include<errno.h>      // Defines macros for reporting and retrieving error conditions through error codes
 #include<stdio.h>      // Standard Input/Output functions (e.g., printf, scanf, FILE operations)
 #include<stdlib.h>     // Standard library functions (e.g., memory allocation, process control)
